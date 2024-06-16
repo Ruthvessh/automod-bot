@@ -40,7 +40,7 @@
     "moment": "^2.29.1",
     "mongoose": "^5.13.7",
     "nekos.life": "^2.0.9",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.7.0",
     "os": "^0.1.2",
     "outdent": "^0.8.0",
     "pretty-ms": "^7.0.1",
